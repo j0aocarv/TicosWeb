@@ -1,0 +1,45 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+body{
+    font-size: 1em;
+    font-family: 'Trebuchet MS', 'Helvetica', sans-serif;
+    background: #e6e6e6;
+}
+/**************************layot**************************/
+#cabecalho{
+    background: #6756be;
+    text-align: center;
+    padding: 15px;
+}
+#area-menu, #area-logo{
+    padding: 15px;
+}
+#area-principal{
+    width: 920px;
+    margin: 0 auto;
+}
+.conteudo{
+    padding: 15px;
+    position: relative;
+    left: 230px;
+}
+/**************************links**************************/
+#area-menu a:visited, #area-menu a:link{
+    color: #e6e6e6;
+    padding: 8px 12px;
+}
+a{
+    text-decoration: none;
+}
+#area-menu a:hover{
+    background: #e6e6e6;
+    color: #6756be;
+    text-decoration: none;
+}
+/**************************gerais**************************/
+.color-white{
+    color: #e6e6e6;
+}
+
